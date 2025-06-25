@@ -12,7 +12,7 @@ I wanted to start learning how websites work from scratch, and what better way t
 - The power of learning by doing
 
 ## Live Website
-[Click here to view my MyContact page](https://meghana-naik-92.github.io/html_test/)
+[Click here to view my MyContact page](https://meghana-naik-92.github.io/html_test/MYContact.html)
 
 ## What's Next
 Learn CSS and style this page
