@@ -15,9 +15,8 @@ I wanted to start learning how websites work from scratch, and what better way t
 [Click here to view my MyContact page](https://meghana-naik-92.github.io/html_test/MYContact.html)
 
 ## What's Next
-Learn CSS and style this page
-Add JavaScript for interactivity
-Build a full portfolio step-by-step
+I'll learn CSS and style this page,I'll add JavaScript for interactivity and 
+build a full portfolio step-by-step
 
 ## About Me
 2nd-year CSE student  
