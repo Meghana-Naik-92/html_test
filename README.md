@@ -16,8 +16,8 @@ I wanted to start learning how websites work from scratch, and what better way t
 
 ## What's Next
 Learn CSS and style this page
-Add JavaScript for interactivity
-Build a full portfolio step-by-step
+-Add JavaScript for interactivity
+-Build a full portfolio step-by-step
 
 ## About Me
 2nd-year CSE student  
